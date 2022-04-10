@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sarahwylie/ReachARead#readme",
   "dependencies": {
+    "@apollo/client": "^3.5.10",
     "apollo-server-express": "^2.15.0",
     "bcrypt": "^5.0.1",
     "jsonwebtoken": "^8.5.1",
